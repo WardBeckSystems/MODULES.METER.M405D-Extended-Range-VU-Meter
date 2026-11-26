@@ -1,0 +1,142 @@
+{
+ "drawing": "Modules/METER/M405D/MECHANICAL/19xx - M405D - DOC - 405-03-048 - NOTES REMOVE ALL BURRS.jpg",
+ "version": 1,
+ "trace": "_traces/33c7c8e6bf5df825.svg",
+ "sheet": {
+  "number": "405-03-048",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 9.6, 430.6, 298.8],
+ "outlines": {
+  "line": {"rings": 247, "straight": {"n": 3305, "mm": 7085.7}, "curved": {"n": 487, "mm": 675.7}},
+  "text": {"rings": 356, "straight": {"n": 2896, "mm": 3791.1}, "curved": {"n": 836, "mm": 1406.1}},
+  "tb": {"rings": 33, "straight": {"n": 283, "mm": 412.7}, "curved": {"n": 56, "mm": 88.8}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 7025, "straight": {"n": 7140, "mm": 4286.5}, "curved": {"n": 51, "mm": 92.5}},
+   "text": {"paths": 1955, "straight": {"n": 2761, "mm": 2598.1}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 392, "straight": {"n": 471, "mm": 1080.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 67,
+  "orientation": {"horizontal": {"n": 2726, "mm": 3025.7}, "vertical": {"n": 2573, "mm": 1881.4}, "diagonal": {"n": 5073, "mm": 3058.2}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [148.8, 181.4], "r": 6.5, "kind": "arc", "span": 82, "from": ["centre line"], "start": 176},
+  {"c": [149.1, 181.0], "r": 5.7, "kind": "circle", "span": 271, "from": ["centre line"]},
+  {"c": [148.1, 162.3], "r": 5.7, "kind": "circle", "span": 360, "from": ["centre line"]},
+  {"c": [148.4, 150.2], "r": 2.0, "kind": "arc", "span": 88, "from": ["centre line"], "start": 179},
+  {"c": [149.0, 193.9], "r": 1.5, "kind": "arc", "span": 118, "from": ["centre line"], "start": 101},
+  {"c": [149.0, 150.7], "r": 1.5, "kind": "arc", "span": 118, "from": ["centre line"], "start": 101},
+  {"c": [230.3, 224.9], "r": 1.4, "kind": "arc", "span": 142, "from": ["centre line"], "start": 151},
+  {"c": [138.4, 10.7], "r": 0.8, "kind": "arc", "span": 184, "from": ["centre line"], "start": 42},
+  {"c": [0.7, 10.6], "r": 0.7, "kind": "arc", "span": 212, "from": ["centre line"], "start": 324}
+ ],
+ "boxes": [
+  {"mm": [215.0, 146.6, 224.5, 196.1], "w": 9.5, "h": 49.5, "from": "ring"},
+  {"mm": [318.0, 66.7, 330.5, 73.4], "w": 12.5, "h": 6.7, "from": "ring"},
+  {"mm": [344.6, 66.7, 409.6, 73.4], "w": 65.0, "h": 6.7, "from": "ring"},
+  {"mm": [410.4, 66.7, 422.7, 73.2], "w": 12.3, "h": 6.5, "from": "ring"},
+  {"mm": [331.4, 60.0, 344.0, 65.8], "w": 12.6, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [344.6, 60.0, 409.6, 65.8], "w": 65.0, "h": 5.8, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [410.2, 60.0, 422.7, 65.8], "w": 12.5, "h": 5.8, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [285.0, 41.5, 422.7, 58.9], "w": 137.7, "h": 17.4, "from": "ring", "words": ["WBS", "WARD-BECK", "SYSTEMS"], "in_title_block": true},
+  {
+   "mm": [318.0, 15.3, 422.7, 41.1],
+   "w": 104.7,
+   "h": 25.7,
+   "from": "ring",
+   "words": ["MOUNTING", "BL OcK", "FOR", "JAcks", "USED", "M405D", "ON"],
+   "in_title_block": true
+  },
+  {"mm": [285.0, 35.1, 317.2, 41.0], "w": 32.2, "h": 5.9, "from": "ring", "words": ["DRN: 2/83"], "in_title_block": true},
+  {"mm": [285.0, 22.0, 317.2, 27.6], "w": 32.2, "h": 5.6, "from": "ring", "words": ["CKD", "WL"], "in_title_block": true},
+  {"mm": [285.0, 15.3, 317.2, 21.2], "w": 32.2, "h": 5.8, "from": "ring", "words": ["APP:"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 56,
+  "lines": [
+   {"mm": [298.4, 252.4, 326.0, 259.3], "text": "NOTES:"},
+   {"mm": [301.0, 242.7, 415.6, 250.8], "text": "REMOVE ALL BURRS SHARP EDGES"},
+   {"mm": [300.3, 234.0, 393.4, 242.0], "text": "TOLERANCES XX 015"},
+   {"mm": [137.7, 229.1, 155.4, 236.0], "text": "1.000"},
+   {"mm": [353.6, 227.6, 396.2, 234.5], "text": "XXX 005"},
+   {"mm": [190.4, 221.1, 220.0, 227.6], "text": "468 DIA"},
+   {"mm": [234.9, 221.1, 262.3, 227.6], "text": "PLACES"},
+   {"mm": [136.2, 217.0, 148.8, 222.5], "text": "600"},
+   {"mm": [239.2, 210.3, 254.8, 216.8], "text": "375"},
+   {"mm": [112.3, 205.3, 124.8, 212.3], "text": "125"},
+   {"mm": [96.7, 185.9, 110.8, 192.4], "text": "575"},
+   {"mm": [69.5, 175.7, 87.9, 182.2], "text": "1.325"},
+   {"mm": [45.3, 169.7, 63.7, 176.2], "text": "1.775"},
+   {"mm": [174.4, 167.5, 193.2, 174.0], "text": "1.900"},
+   {"mm": [52.7, 134.9, 65.6, 140.5], "text": "TAP"},
+   {"mm": [69.1, 134.1, 101.9, 140.6], "text": "6-32 UNC"},
+   {"mm": [71.5, 129.1, 97.4, 134.6], "text": "PLACES"},
+   {"mm": [178.8, 127.2, 238.6, 133.6], "text": "156 DIA - 2 PLACES"},
+   {"mm": [114.2, 122.0, 127.2, 127.5], "text": "375"},
+   {"mm": [76.6, 86.1, 191.7, 93.1], "text": "MATERIAL : 375 THIcK NACOLITE"},
+   {"mm": [76.6, 79.7, 126.9, 86.6], "text": "ENNSH : NONE"},
+   {"mm": [317.6, 60.5, 343.5, 65.7], "text": "(issUE DATE"},
+   {"mm": [367.9, 60.5, 387.3, 65.7], "text": "REVISION"},
+   {"mm": [412.2, 60.5, 421.2, 65.2], "text": "APP"},
+   {"mm": [293.6, 45.6, 418.4, 54.2], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [285.2, 35.6, 308.5, 41.1], "text": "DRN: 2/83"},
+   {"mm": [333.3, 31.5, 397.3, 38.0], "text": "MOUNTING BL OcK"},
+   {"mm": [285.2, 29.1, 294.5, 33.9], "text": "ENG"},
+   {"mm": [296.9, 28.3, 309.8, 34.8], "text": "Mew"},
+   {"mm": [340.0, 24.6, 386.9, 31.6], "text": "FOR JAcks"},
+   {"mm": [285.9, 22.2, 308.5, 27.5], "text": "CKD WL"},
+   {"mm": [332.9, 17.5, 367.5, 24.4], "text": "USED ON"},
+   {"mm": [371.8, 17.5, 399.8, 24.4], "text": "M405D"},
+   {"mm": [286.3, 15.8, 294.9, 20.1], "text": "APP:"},
+   {"mm": [294.5, 9.7, 307.4, 14.0], "text": "SCALE"},
+   {"mm": [403.5, 9.7, 416.5, 14.5], "text": "ISSUE"},
+   {"mm": [340.3, 4.5, 389.7, 12.7], "text": "405-03-048"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [276.6, 3.6, 429.9, 72.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "(issUE DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN: 2/83",
+   "MOUNTING BL OcK",
+   "ENG",
+   "Mew",
+   "FOR JAcks",
+   "CKD WL",
+   "USED ON",
+   "M405D",
+   "APP:",
+   "SCALE",
+   "ISSUE",
+   "405-03-048"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 405-03-048, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–431 mm across, 10–299 mm up",
+  "- **Outlines:** line 247 rings, 3,305 straight (7,086 mm) / 487 curved (676 mm); text 356 rings, 2,896 straight (3,791 mm) / 836 curved (1,406 mm); tb 33 rings, 283 straight (413 mm) / 56 curved (88.8 mm)",
+  "- **Centre lines:** 9,372 paths (67 closed); straight 7,965 mm, curved 92.5 mm; horizontal 3,026 mm, vertical 1,881 mm, diagonal 3,058 mm",
+  "- **Circles and arcs:** 2 circles, 7 arcs; largest r 5.7 @ (149.1, 181.0), r 5.7 @ (148.1, 162.3)",
+  "- **Closed boxes:** 12 (8 in the title block)",
+  "- **Words (OCR):** 56 in 37 lines: NOTES: · REMOVE ALL BURRS SHARP EDGES · TOLERANCES XX 015 · 1.000 · XXX 005 · 468 DIA · PLACES · 600 · 375 · 125 · 575 · 1.325",
+  "- **Title block:** (277, 4)–(430, 72) mm: (issUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: 2/83 · MOUNTING BL OcK · ENG · Mew · FOR JAcks · CKD WL · USED ON · M405D · APP: · SCALE · ISSUE · 405-03-048"
+ ]
+}
