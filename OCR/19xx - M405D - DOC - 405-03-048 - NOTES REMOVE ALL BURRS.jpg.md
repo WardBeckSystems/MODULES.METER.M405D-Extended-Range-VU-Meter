@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 56 in 37 lines: NOTES: · REMOVE ALL BURRS SHARP EDGES · TOLERANCES XX 015 · 1.000 · XXX 005 · 468 DIA · PLACES · 600 · 375 · 125 · 575 · 1.325
 - **Title block:** (277, 4)–(430, 72) mm: (issUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: 2/83 · MOUNTING BL OcK · ENG · Mew · FOR JAcks · CKD WL · USED ON · M405D · APP: · SCALE · ISSUE · 405-03-048
 
-Every curve, box, word and wire group: [19xx - M405D - DOC - 405-03-048 - NOTES REMOVE ALL BURRS (traced).json](../MECHANICAL/19xx%20-%20M405D%20-%20DOC%20-%20405-03-048%20-%20NOTES%20REMOVE%20ALL%20BURRS%20(traced).json) (the CAD file: `19xx - M405D - DOC - 405-03-048 - NOTES REMOVE ALL BURRS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M405D - DOC - 405-03-048 - NOTES REMOVE ALL BURRS (traced).json](../MECHANICAL/19xx%20-%20M405D%20-%20DOC%20-%20405-03-048%20-%20NOTES%20REMOVE%20ALL%20BURRS%20%28traced%29.json) (the CAD file: `19xx - M405D - DOC - 405-03-048 - NOTES REMOVE ALL BURRS (traced).dxf`).
 
 ## Full text
 
