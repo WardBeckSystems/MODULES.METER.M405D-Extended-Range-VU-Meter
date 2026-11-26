@@ -1,0 +1,19 @@
+{
+ "clap": {
+  "id": "ca.wbsps.m405d_extended_range_meter",
+  "name": "Ward-Beck M405D Extended Range Meter",
+  "strings": [
+   "ca.wbsps.m405d_extended_range_meter",
+   "Ward-Beck M405D Extended Range Meter",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "Extended range dual-movement audio test meter with ANSI C16.5 VU and BS 5428 PPM movements and stepped 2 dB attenuator"
+  ]
+ },
+ "code": "M405D",
+ "suite_index": null,
+ "source": "2030.env/vst/M405D_Extended_Range_Meter"
+}
