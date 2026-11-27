@@ -13,6 +13,34 @@ Ward-Beck Systems M405D, 1984|17. Wiki page: [M405D on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 10 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1984 - M405D - 013.jpg](MANUALS/1984%20-%20M405D%20-%20013.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Range** | 50 dBm to +30 dBm in or PPM readings dB steps for |
+| **Input selection** | Pushbutton selects between two sources ADC PJ339A type jack on front panel provides direct input. |
+| **Source impedance** | 600 ohms or 150 ohms. |
+| **Input impedance** | 600 ohms, 150 ohms or 20k ohms. |
+| **Attenuator Tracking** | +/ -0.25 dB per step (non accumulative) |
+| **Meter ballistics** | Complies with ANSI C16.5 Complies with' BSI B54297. |
+| **High pass filter** | -3 dB at 250 Hz. -24 dB at 120 Hz. |
+| **Frequency response** |  |
+| &nbsp;&nbsp;Metering | +/ -0.25 dB from 30 Hz to 15 kHz |
+| **Monitoring outputs** | +/-0.5 dB from 50 Hz to 10 kHz. |
+| **Total harmonic distortion** |  |
+| &nbsp;&nbsp;Headset output | Less than 1%, 50 Hz to 10 kHz (measured at any input level and at +24 dBm output level) |
+| **Speaker output** | Less than 1%, 50 Hz to 10 kHz (measured at any input level and at watts, ohms output level |
+| **Noise** | 40 dB below vu or PPM reference. |
+| **Output impedance** |  |
+| &nbsp;&nbsp;Headset output | 150 ohms |
+| **Speaker output** | ohms |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

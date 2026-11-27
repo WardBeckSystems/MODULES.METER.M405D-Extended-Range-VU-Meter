@@ -1,0 +1,236 @@
+{
+ "module": "M405D",
+ "title": "M405d EXTENDED RANGE vu AND PEAK PROGRAM METER",
+ "source": {
+  "file": "MANUALS/1984 - M405D - 013.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.94,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Range",
+   "key": "range",
+   "text": "50 dBm to +30 dBm in or PPM readings dB steps for",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input selection",
+   "key": "input_selection",
+   "text": "Pushbutton selects between two sources ADC PJ339A type jack on front panel provides direct input.",
+   "quantities": [
+    {
+     "value": 339,
+     "unit": "A"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or 150 ohms.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "600 ohms, 150 ohms or 20k ohms.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Attenuator Tracking",
+   "key": "attenuator_tracking",
+   "text": "+/ -0.25 dB per step (non accumulative)",
+   "quantities": [
+    {
+     "value": -0.25,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Meter ballistics",
+   "key": "meter_ballistics",
+   "text": "Complies with ANSI C16.5 Complies with' BSI B54297."
+  },
+  {
+   "name": "High pass filter",
+   "key": "high_pass_filter",
+   "text": "-3 dB at 250 Hz. -24 dB at 120 Hz.",
+   "quantities": [
+    {
+     "value": -3,
+     "unit": "dB"
+    },
+    {
+     "value": 250,
+     "unit": "Hz"
+    },
+    {
+     "value": -24,
+     "unit": "dB"
+    },
+    {
+     "value": 120,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "",
+   "items": [
+    {
+     "name": "Metering",
+     "text": "+/ -0.25 dB from 30 Hz to 15 kHz",
+     "quantities": [
+      {
+       "value": -0.25,
+       "unit": "dB"
+      },
+      {
+       "value": 30,
+       "unit": "Hz"
+      },
+      {
+       "value": 15,
+       "unit": "kHz"
+      }
+     ],
+     "key": "metering"
+    }
+   ]
+  },
+  {
+   "name": "Monitoring outputs",
+   "key": "monitoring_output",
+   "text": "+/-0.5 dB from 50 Hz to 10 kHz.",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 50,
+     "unit": "Hz"
+    },
+    {
+     "value": 10,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "",
+   "items": [
+    {
+     "name": "Headset output",
+     "text": "Less than 1%, 50 Hz to 10 kHz (measured at any input level and at +24 dBm output level)",
+     "quantities": [
+      {
+       "value": 1,
+       "unit": "%"
+      },
+      {
+       "value": 50,
+       "unit": "Hz"
+      },
+      {
+       "value": 10,
+       "unit": "kHz"
+      },
+      {
+       "value": 24,
+       "unit": "dBm"
+      }
+     ],
+     "key": "headset_output"
+    }
+   ]
+  },
+  {
+   "name": "Speaker output",
+   "key": "speaker_output",
+   "text": "Less than 1%, 50 Hz to 10 kHz (measured at any input level and at watts, ohms output level",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 50,
+     "unit": "Hz"
+    },
+    {
+     "value": 10,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "40 dB below vu or PPM reference.",
+   "quantities": [
+    {
+     "value": 40,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Headset output",
+     "text": "150 ohms",
+     "quantities": [
+      {
+       "value": 150,
+       "unit": "ohms"
+      }
+     ],
+     "key": "headset_output"
+    }
+   ]
+  },
+  {
+   "name": "Speaker output",
+   "key": "speaker_output",
+   "text": "ohms"
+  }
+ ]
+}
