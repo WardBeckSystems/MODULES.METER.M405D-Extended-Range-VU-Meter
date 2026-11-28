@@ -1,6 +1,6 @@
 # M405D Extended Range VU Meter · Meter
 
-Ward-Beck Systems M405D, 1984|17. Wiki page: [M405D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M405D.html)
+Ward-Beck Systems M405D, 1984|17. Wiki page: [M405D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405D-Extended-Range-VU-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|
